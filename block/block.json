@@ -1,0 +1,12 @@
+{
+  "apiVersion": 2,
+  "name": "london-map-plugin/map",
+  "title": "London Map",
+  "category": "widgets",
+  "icon": "location",
+  "description": "Displays a map of London with locations (e.g., dog-friendly baby toilets).",
+  "supports": {
+    "html": false
+  },
+  "editorScript": "file:./index.js"
+} 
